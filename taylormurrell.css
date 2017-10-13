@@ -1,0 +1,38 @@
+h1{
+	font-family: 'Amiri', Helvetica;
+	color: #3b3a3a;
+	margin-bottom: 0px;
+	vertical-align: middle;
+	font-weight: 700;
+}
+
+
+.avatar{
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+	background-image:url(taylor.murrell.io/IMG_0331.PNG);
+	margin: 0 auto;
+}
+
+.bio{
+	background-color: white;
+	margin-top: 0;
+    margin-left: -8px;
+    width: 100vw;
+    height: 88vh;
+    min-height: 300px;
+    max-height: 300px;
+    padding: 6vh 0;
+
+
+	font-family: 'Martel Sans', Helvetica;
+	color: #3b3a3a;
+}
+
+
+
+a{
+	color:#ffcb50;
+}
+
