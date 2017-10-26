@@ -1,18 +1,20 @@
 h1{
-	font-family: 'Amiri', Helvetica;
+	font-family: 'Amiri', Times;
 	color: #3b3a3a;
 	margin-bottom: 0px;
 	vertical-align: middle;
-	font-weight: 700;
+	font-weight: 600;
+	letter-spacing: 1.1px;
 }
 
-
 .avatar{
+	display: block;
+	background-color: #fff8f7;
 	width: 220px;
 	height: 220px;
 	border-radius: 50%;
-	background-image:url(taylor.murrell.io/IMG_0331.PNG);
 	margin: 0 auto;
+	background-image:url();
 }
 
 .bio{
@@ -25,14 +27,16 @@ h1{
     max-height: 300px;
     padding: 6vh 0;
 
-
 	font-family: 'Martel Sans', Helvetica;
 	color: #3b3a3a;
 }
 
-
-
 a{
-	color:#ffcb50;
+	color:#f7c328;
 }
 
+
+@media(min-width: 500px){
+  html{
+  }
+}
