@@ -37,12 +37,22 @@ a{
 }
 
 
-/*mobile first rules, going to overwrite later*/
+/*mobile rules*/
 @media(max-width: 500px){
   body{
   	font-size:40px;
   }
   h1{
   	font-size: 64px;
+  }
+}
+
+/*desktop rules*/
+@media(min-width: 1000){
+	body{
+  	font-size:60px;
+  }
+  h1{
+  	font-size: 70px;
   }
 }
