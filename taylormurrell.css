@@ -1,3 +1,6 @@
+body {
+	font-size: 40px;
+}
 h1{
 	font-family: 'Amiri', Times;
 	color: #3b3a3a;
@@ -5,6 +8,7 @@ h1{
 	vertical-align: middle;
 	font-weight: 600;
 	letter-spacing: 1.1px;
+	font-size: 64px;
 }
 
 .avatar{
@@ -38,12 +42,12 @@ a{
 
 
 /*mobile rules*/
-@media(max-width: 500px){
+@media(min-width: 600px){
   body{
-  	font-size:40px;
+  	font-size:14px;
   }
   h1{
-  	font-size: 64px;
+  	font-size: 34px;
   }
 }
 
@@ -55,4 +59,6 @@ a{
   h1{
   	font-size: 70px;
   }
+
 }
+
