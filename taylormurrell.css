@@ -35,3 +35,13 @@ a{
 	color:#f7c328;
 }
 
+
+/*mobile first rules, going to overwrite later*/
+@media(max-width: 500px){
+  body{
+  	font-size:40px;
+  }
+  h1{
+  	font-size: 64px;
+  }
+}
