@@ -39,9 +39,9 @@ a{
 /*mobile first rules, going to overwrite later*/
 @media(min-width: 300px){
   body{
-  	font-size:17px;
+  	font-size:40px;
   }
   h1{
-  	font-size: 24px;
+  	font-size: 64px;
   }
 }
