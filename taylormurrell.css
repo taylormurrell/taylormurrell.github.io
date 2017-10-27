@@ -35,10 +35,3 @@ a{
 	color:#f7c328;
 }
 
-
-/*mobile first rules, going to overwrite later*/
-@media(min-width: 300px){
-  body{
-  	font-size:40px;
-  }
-}
