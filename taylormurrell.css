@@ -18,8 +18,8 @@ h1{
 .avatar{
 	display: flex;
 
-	position: absolute;
-    	top: 80px;
+	/*position: absolute;
+    	top: 80px;*/
 	
 	width: 220px;
 	height: 220px;
@@ -33,14 +33,16 @@ h1{
 }*/
 
 .bio{
+	display: flex;
+	
 	background-color: white;
 	margin-top: 0;
-    margin-left: -8px;
-    width: 100vw;
-    height: 88vh;
-    min-height: 300px;
-    max-height: 300px;
-    padding: 6vh 0;
+    	margin-left: -8px;
+   	width: 100vw;
+    	height: 88vh;
+   	min-height: 300px;
+    	max-height: 300px;
+    	padding: 6vh 0;
 
 	/*font-family: 'Martel Sans', Helvetica;
 	color: #3b3a3a;*/
