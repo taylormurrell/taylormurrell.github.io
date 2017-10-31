@@ -36,12 +36,17 @@ h1{
 	color: #3b3a3a;
 }
 
+.text{
+	font-family: 'Martel Sans', Helvetica;
+	color: #3b3a3a;
+}
+
 a{
-	color:#f7c328;
+	color:#ffcb50;
 }
 
 
-/*mobile rules*/
+/*override mobile rules*/
 @media(min-width: 600px){
   body{
   	font-size:14px;
@@ -61,4 +66,3 @@ a{
   }
 
 }
-
