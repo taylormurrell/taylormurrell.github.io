@@ -1,6 +1,10 @@
 body {
 	font-size: 40px;
+
+	font-family: 'Martel Sans', Helvetica;
+	color: #3b3a3a;
 }
+
 h1{
 	font-family: 'Amiri', Times;
 	color: #3b3a3a;
@@ -32,14 +36,14 @@ h1{
     max-height: 300px;
     padding: 6vh 0;
 
-	font-family: 'Martel Sans', Helvetica;
-	color: #3b3a3a;
+	/*font-family: 'Martel Sans', Helvetica;
+	color: #3b3a3a;*/
 }
 
-.text{
+/*.text{
 	font-family: 'Martel Sans', Helvetica;
 	color: #3b3a3a;
-}
+}*/
 
 a{
 	color:#ffcb50;
