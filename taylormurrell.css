@@ -25,13 +25,7 @@ h1{
 	background-image:url();
 }
 
-/*#torontoimage{
-	background-image:url(taylormurrell.github.io/TorontoIcon.jpeg.pdf);
-}*/
-
 .bio{
-	/*display: flex;*/
-	
 	background-color: white;
 	margin-top: 0;
     	margin-left: -8px;
@@ -40,15 +34,7 @@ h1{
    	min-height: 300px;
     	max-height: 300px;
     	padding: 6vh 0;
-
-	/*font-family: 'Martel Sans', Helvetica;
-	color: #3b3a3a;*/
 }
-
-/*.text{
-	font-family: 'Martel Sans', Helvetica;
-	color: #3b3a3a;
-}*/
 
 a{
 	color:#ffcb50;
