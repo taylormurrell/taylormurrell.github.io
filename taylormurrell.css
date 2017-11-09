@@ -55,9 +55,10 @@ a{
 .pics{
 /* style the grid items */
     display: block;
+    flex-wrap: wrap;
     width: 200px;
     height: 200px;
-    background-color: #FAC8CD;
+    background-color: #e6e1de;
     margin-right: 12.5px;
     margin-bottom: 12.5px;
 }
