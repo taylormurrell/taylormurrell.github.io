@@ -41,31 +41,7 @@ a{
 	color:#ffcb50;
 }
 
-.menu {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
 
-/* make the list items look more like buttons */
-.menu li{
-	border: 1px solid #262625;
-	width: 100px;
-	text-align: center;
-
-	display: inline-block;
-	margin-right: -5px;
-}
-
-/* style the the visited links */
-.menu a {
-	color: #262625;
-	background-color:#ffcb50;
-	text-decoration: none;
-
-	width: 100%;
-	display: block;
-}
 
 /*creates picture grid*/
 .wrapper{
