@@ -41,7 +41,29 @@ a{
 	color:#ffcb50;
 }
 
+.menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
 
+/* make the list items look more like buttons */
+.menu li{
+	width: 100px;
+	text-align: center;
+
+	display: inline-block;
+	margin-right: -5px;
+}
+
+/* style the the visited links */
+.menu a {
+	color: #262625;
+	text-decoration: none;
+
+	width: 100%;
+	display: block;
+}
 
 /*creates picture grid*/
 .wrapper{
