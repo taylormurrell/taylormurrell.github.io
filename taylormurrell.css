@@ -51,12 +51,10 @@ a{
 	width: 35px;
 }
 
-.big-nav hidden{
-	list-style-type: none;
-}
-
-.ul{ 
-	list-style-type: none; 
+.menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
 /*creates picture grid*/
