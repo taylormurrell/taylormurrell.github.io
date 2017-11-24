@@ -41,6 +41,15 @@ a{
 	color:#ffcb50;
 }
 
+.burger .patty{
+	background-color: #ffcb50;
+	border-radius:2px;
+	height:4px;
+	margin-bottom: 8px;
+	-webkit-transition: 0.25s ease all;
+	transition: 0.25s ease all;
+	width: 35px;
+}
 
 /*creates picture grid*/
 .wrapper{
