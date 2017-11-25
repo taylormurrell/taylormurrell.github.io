@@ -3,8 +3,8 @@ body {
 
 	font-family: 'Martel Sans', Helvetica;
 	color: #3b3a3a;
-	margin-left:120px;
-	margin-right:120px;
+	margin-left:160px;
+	margin-right:160px;
 	margin-top:60px;
 }
 
@@ -40,7 +40,9 @@ a{
 	color:#ffcb50;
 }
 
-.menu {
+
+/*menu properties*/
+.menu{
 	list-style: none;
 	margin: 0;
 	padding: 0;
@@ -51,7 +53,7 @@ a{
 	width: 100px;
 	text-align: center;
 
-	display: inline-block;
+	display: block;
 	margin-right: -5px;
 }
 
@@ -63,30 +65,6 @@ a{
 	width: 100%;
 	display: block;
 }
-
-/*creates picture grid*/
-.wrapper{
-	width: 850px;
-	padding:12.5px 0 0 12.5px;
-	background-color: white;
-
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-}
-
-.pics{
-/* style the grid items */
-    display: block;
-    flex-wrap: wrap;
-    width: 200px;
-    height: 200px;
-    background-color: #e6e1de;
-    margin-right: 12.5px;
-    margin-bottom: 12.5px;
-}
-
-	
 
 /*override mobile rules*/
 @media(min-width: 600px){
