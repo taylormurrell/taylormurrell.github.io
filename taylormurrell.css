@@ -40,6 +40,9 @@ a{
 	color:#ffcb50;
 }
 
+a:hover {
+	color:#E8B949;
+}
 
 /*menu properties*/
 .menu{
