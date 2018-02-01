@@ -36,6 +36,11 @@ h1{
 	margin-right:400;
 }
 
+#bio-text{
+	margin-left:auto;
+	margin-right:auto;
+}
+
 a{
 	color:#ffcb50;
 	text-decoration:none;
